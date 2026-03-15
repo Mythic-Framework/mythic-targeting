@@ -1,6 +1,6 @@
 Config = {
 	Sprite = {
-		color = { r = 138, g = 0, b = 0, a = 255 },
+		color = { r = 32, g = 134, b = 146, a = 255 },
 		active = true
 	},
 	DefaultIcons = {
